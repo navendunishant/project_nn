@@ -2,4 +2,4 @@
 nrinfraintegrations_state: "absent"
 nrinfragent_state: "latest"
 nrinfragent_config:
-  license_key: YOUR_LICENSE_KEY
+  license_key: eu01xxf5456a2961afcbca8399e6fd3cb2be2684
